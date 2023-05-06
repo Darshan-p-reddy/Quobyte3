@@ -55,7 +55,5 @@ It consists of 3 components
 3. Aws 2.0
 4. Microsoft Azure
 
-## Reference link
-[**https://www.quobyte.com/**](https://www.quobyte.com/)  
-[**https://github.com/quobyte**](https://github.com/quobyte)  
+
  
